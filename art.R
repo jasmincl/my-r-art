@@ -6,10 +6,10 @@ library(viridis)
 library(scales)
 # install.packages('devtools')
 library(devtools)
-(devtools::install_github("cutterkom/generativeart"))
-install.packages(c("mapproj", "ggforce", "Rcpp"))
-devtools::install_github("marcusvolz/mathart")
-devtools::install_github("marcusvolz/ggart")
+# (devtools::install_github("cutterkom/generativeart"))
+# install.packages(c("mapproj", "ggforce", "Rcpp"))
+# devtools::install_github("marcusvolz/mathart")
+# devtools::install_github("marcusvolz/ggart")
 
 # create palette -----------------
 jazzy_colors <- c(
